@@ -1,5 +1,5 @@
 IP: 158.160.64.198;
-name_taski: https://razmishlist.zapto.org/;
-name_kittygram: https://razumist.zapto.org/signin;
-login: admin;
-password: 2a31efe85a252A;
+name_taski: https://razmishlist.zapto.org/ ;
+name_kittygram: https://razumist.zapto.org ;
+login: admin1 ;
+password: admin1 ;
